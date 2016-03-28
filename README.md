@@ -1,4 +1,4 @@
-# WatchOS2-TimePicker
+# watchOS 2-TimePicker
 
 Time Picker for WatchKit
 
